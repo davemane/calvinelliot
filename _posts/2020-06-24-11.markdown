@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "About the Latest COVID-19 Numbers"
+date:   '2020-06-24'
+categories: Coronavirus COVID-19
+---
+Markets were rattled today with the DOW tumbling more than 700 points and the S&P 500 shedding just shy of 81. The loss can be contributed to a reduction in confidence of whether COVID-19 in the United States is actually under control. Numbers in states which reopened their economies early are contributing the greatest to the rising numnber of cases. I decided to look at some of the key numbers to determine whether this is truly something to panic about.
+
+First, I looked at the number of cofirmed cases in the United States since March 1st:
+<img src="/assets/covid/daily_cases20200624.png"/>
+
+A rise in cases is initially troubling, but there are several factors which can obscure the meaning in an upward trending total case count.
+
+Next, I looked at the weekly hospitalization rate for different age groups since the the first data sample was taken - March 7th, the end to the first week of data collection (all graphs except this one start on March 1st). <a href="/covid/hospitalization20200613">You can look here at the raw numbers</a> or simply look at the graph below:
+<img src="/assets/covid/hospitalization_rate20200624.png"/>
+
+A declining hospitalization rate is encouraging. Good news continued when I noticed a downward trend in confirmed deaths by day. Theses numbers are still troubling, but better than many would lead you to believe:
+<img src="/assets/covid/daily_deaths20200624.png"/>
+
+Last, I graphed the rolling 3-day average for daily confirmed deaths:
+<img src="/assets/covid/average_deaths20200624.png"/>
+
+I'm not an epidemiologist and I'm not a medical doctor, so I don't fully understand what all of this data means. However, based on the different data sets, I'm encouraged by what I see. Hopefully we will continue seeing hospitalization rates and daily deaths counts trend in the right direction.
+
+If the daily confirmed case counts <i>does</i> end up being more troubling than it seems right now, I'll write an updated overview of the data and how it has changed.

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Markets are not Always Reflective of the Economy"
+date:   '2020-06-15'
+categories: Economy Markets Jobs Recovery Recession
+---
+On June 15th, the DOW closed at 25,763 while the S&P 500 closed at 3,066. Neither set a record at the closing bell, but one thing remains abundantly clear: markets are incredibly disconnected from economic realities.
+
+If you asked anyone six months ago what the stock market would look like if the unemployment rate suddenly quadrupled, they would be at a loss to fully comprehend how deep the pain would stem from gears of the economy grinding to a halt. However, the market is already pricing in a recovery from the COVID recession and the consequences are 1,000-point swings that make day traders giddy.
+
+Seriously, the unemployment rate fell to <i>13.3 percent</i> and you would hardly know it from how well markets are performing. Below is a chart detailing the swings in the DOW Jones Industrial Average and the unemployment rate.
+
+<img src="/assets/rate_dow.png"/>
+
+If there truly is a direct correlation between general economic conditions and stock market performance, we would expect to see an inverse relationship on the chart above. While we see subtle signs of such a relationship, this chart shows the past few months have been a case study proving markets sometimes perform independently and irrationally. 

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Interesting Housing Data in the COVID Economy"
+date:   '2020-06-11'
+categories: COVID Unemployment Mortgages Housing
+---
+We're getting a lot of data as the economy starts coming back from one of the worst recessions in modern history. In this post I'll be looking at some housing data and compiling things I find interesting.
+
+<h2>The Housing Market</h2>
+First, let's look at something simple which can serve good indicator of some of the economic impact from COVID shutting down the global economy.
+<br>
+<img src="/assets/mortgage_applications.png"/>
+<br>
+U.S. home mortgage applications going down is not surprising considering people have been unable to even tour houses they're interested in buying. However, the following graph shows the inevitable demand for mortgages which will come as a result of historically low interest rates.
+<br>
+<img src="/assets/mortgage_rates.png"/>
+<br>
+Simply because there is demand for mortgages, does not mean an adequate supply of homes are available for purchase. The following shows exiting home sales at a lower point than any time in the past twenty years. People simply aren't selling their homes.
+<br><br>
+<img src="/assets/exiting_home_sales.png"/>
+<br>
+As made clear by the graph above, the number of available homes for purchase in the U.S. is hovering right around 1.25 million.
+<br><br>
+Lastly, there should be no surprise in the surge of refinances in the U.S. mortgage market. That said, the last twelve months have shown exactly the rush homeowners are in to secure a great interest rate. For most homeowners, this is a sign of medium to long-term commitment to their current mortgaged home.
+<br>
+<img src="/assets/refinances.png"/>
+
+More to come...

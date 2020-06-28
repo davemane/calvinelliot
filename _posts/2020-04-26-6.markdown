@@ -1,0 +1,1247 @@
+---
+layout: post
+title:  "The Apprentice Rankings"
+date:   '2020-04-26'
+categories: TheApprentice
+---
+This is a completely subjective ordering of 122 The Apprentice candidates according to yours truly. Regardless of your personal thoughts concerning the show's host, The Apprentice was a pretty great show. The ranking is formulated on a per-candidate basis in my head and taking into consideration the following factors: smarts, skills, likeability, integrity, and any other X factors that pop into my head.
+*Note* the ranking is only for non-celebrity seasons (i.e. Seasons 1-6, 10).
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;line-height:120%;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;line-height:120%;border-color:black;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"><b>Rank</b></th>
+    <th class="tg-lboi"><b>Contestant</b></th>
+    <th class="tg-lboi"><b>Occupation</b></th>
+    <th class="tg-lboi"><b>Season</b></th>
+    <th class="tg-lboi"><b>Age</b></th>
+    <th class="tg-lboi"><b>Origin</b></th>
+    <th class="tg-0pky"><b>Result</b></th>
+    <th class="tg-0pky"><b>Brief Notes</b></th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-lboi">Bill Rancic</td>
+    <td class="tg-lboi">Cigar business owner</td>
+    <td class="tg-lboi">1</td>
+    <td class="tg-lboi">32</td>
+    <td class="tg-lboi">Chicago, Illinois</td>
+    <td class="tg-0pky">Season 1 Apprentice</td>
+    <td class="tg-0pky">Great contestant who set the bar for all future candidates incredibly high.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4</td>
+    <td class="tg-lboi">Lee Bienstock</td>
+    <td class="tg-lboi">Business Analyst</td>
+    <td class="tg-lboi">5</td>
+    <td class="tg-lboi">22</td>
+    <td class="tg-lboi">Brooklyn, NY</td>
+    <td class="tg-0pky">Fired in Season 5 Finale</td>
+    <td class="tg-0pky">The guy was 22 and absolutely killed it. As Trump repeatedly mentioned, Lee was a politician who used his Brooklyn background and Ivy League education to get things done and schmooze his way into the finals.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">Frank Lombardi</td>
+    <td class="tg-0pky">Real Estate Developer</td>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">28</td>
+    <td class="tg-0pky">Bronx, New York</td>
+    <td class="tg-0pky">Fired in middle of Season Finale (4-22-2007)</td>
+    <td class="tg-0pky">I couldn't stop laughing at this guy. He was probably the most in-your-face contestant from any season, and he was able to back it up with a strong work ethic, high energy, and decisiveness. I doubt anyone could have predicted him being in the final four after the first two episodes of Season 6.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">Randal Pinkett</td>
+    <td class="tg-0pky">Consulting Firm Owner</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">34</td>
+    <td class="tg-0pky">Somerset, New Jersey</td>
+    <td class="tg-0pky">Hired by Trump (12-15-2005)</td>
+    <td class="tg-0pky">Purely based on his academic background and my perception from watching, Randal was probably the smartest contestant from any season. He was able to translate his intellect into success, which is easier said than done. Randal would be ranked higher, but he was pretty boring to watch.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+ <tr>
+    <td class="tg-0pky">11</td>
+    <td class="tg-0pky">Rebecca Jarvis</td>
+    <td class="tg-0pky">Financial Journalist</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">23</td>
+    <td class="tg-0pky">Chicago, Illinois</td>
+    <td class="tg-0pky">Fired in the season finale (12-15-2005)</td>
+    <td class="tg-0pky">Incredible contestant who was smart, savvy, and only 23. She's probably ranked too high on this list, but it's hard to not be impressed by her filming on a broken foot and pushing her way through a formidable crowd to lose in the finale.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13</td>
+    <td class="tg-0pky">Kwame Jackson</td>
+    <td class="tg-0pky">Investment manager</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">29</td>
+    <td class="tg-0pky">Charlotte, North Carolina</td>
+    <td class="tg-0pky">Fired in the season finale (4–15–2004)</td>
+    <td class="tg-0pky">Kwame was one of the more likeable candidates from the Ivy League. His laid-back demeanor wasn't very exciting, but he was a shrewd, skillful player nonetheless.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">18</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">19</td>
+    <td class="tg-0pky">Nick Warnock</td>
+    <td class="tg-0pky">Copier salesman</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">27</td>
+    <td class="tg-0pky">Los Angeles, California</td>
+    <td class="tg-0pky">Fired in week 13 (4–1–2004)</td>
+    <td class="tg-0pky">A likeable, sales-focused player who used his persistence and Jersey accent to ultimately get to the final four.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">20</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">21</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">22</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">23</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">24</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">25</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">26</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">27</td>
+    <td class="tg-0pky">Troy McClain</td>
+    <td class="tg-0pky">Real Estate Broker</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">32</td>
+    <td class="tg-0pky">Boise, Idaho</td>
+    <td class="tg-0pky">Fired in week 12 (3–25–2004)</td>
+    <td class="tg-0pky">Blue collar western guy who did a good job in a great field of contestants. Primary strength was in sales which sometimes made him come off as a </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">28</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">29</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">31</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">32</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">33</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">34</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">35</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">36</td>
+    <td class="tg-0pky">Amelia "Amy" Henry</td>
+    <td class="tg-0pky">Account manager</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">Austin, Texas</td>
+    <td class="tg-0pky">Fired in week 13 (4–1–2004)</td>
+    <td class="tg-0pky">There's something to be said for having the longest winning streak on The Apprentice (10 challenges). She had a few good ideas throughout the season, but there wasn't anything overwhelmingly special about Amy.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">37</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">38</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">39</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">40</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">41</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">42</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">43</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">44</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">45</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">46</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">47</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">48</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">49</td>
+    <td class="tg-0pky">Ereka Vetrini</td>
+    <td class="tg-0pky">Marketing Manager</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">27</td>
+    <td class="tg-0pky">New York, New York</td>
+    <td class="tg-0pky">Fired in week 8 (2–26–2004)</td>
+    <td class="tg-0pky">Ereka left too soon in Season 1. She wasn't necessarily a top four contestant, but should have at least made it a couple weeks more.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">50</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+<tr>
+    <td class="tg-0pky">51</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">52</td>
+    <td class="tg-0pky">Heidi Bressler</td>
+    <td class="tg-0pky">Senior account executive</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">Philadelphia, Pennsylvania</td>
+    <td class="tg-0pky">Fired in week 10 (3–11–2004)</td>
+    <td class="tg-0pky">Straight-shooter. Calling out Omarosa the way she did in S01:E09 may not have been the most professional thing to do, but it made her jump up significantly on this list.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">53</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">54</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">55</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">56</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">57</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">58</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">59</td>
+    <td class="tg-0pky">Katrina Campins</td>
+    <td class="tg-0pky">Real Estate Agent</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">24</td>
+    <td class="tg-0pky">Coral Gables, Florida</td>
+    <td class="tg-0pky">Fired in week 11 (3–18–2004)</td>
+    <td class="tg-0pky">Did pretty well for only being 24. It's hard to look past her having only gotten so far because sje managed to skate by.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">60</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">61</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">62</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">63</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">64</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">65</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">66</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">67</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">68</td>
+    <td class="tg-0pky">Pamela Day</td>
+    <td class="tg-0pky">Investment firm partner</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">32</td>
+    <td class="tg-0pky">San Francisco, California</td>
+    <td class="tg-0pky">Fired in week 5 (10-7-2004)</td>
+    <td class="tg-0pky">Pamela is the case study for how an Ivy League education can ruin your chances of becoming the Apprentice. That said, she was a decent competitor.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">69</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">70</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">71</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">72</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">73</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">74</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">75</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">76</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">77</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">78</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">79</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">80</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">81</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">82</td>
+    <td class="tg-0pky">Kristi Frank</td>
+    <td class="tg-0pky">Restaurant Owner</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">Bel Air, California</td>
+    <td class="tg-0pky">Fired in week 5 (2–5–2004)</td>
+    <td class="tg-0pky">Kristi's biggest weakness was how easily she seemed to give up. She probably could have been a good player if she displayed more fight.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">83</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">84</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">85</td>
+    <td class="tg-0pky">Jessie Conners</td>
+    <td class="tg-0pky">Marketing Firm Owner</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">21</td>
+    <td class="tg-0pky">New Richmond, Wisconsin</td>
+    <td class="tg-0pky">Fired in week 6 (2–12–2004)</td>
+    <td class="tg-0pky">Too nice for The Apprentice. Whenever she tried cut-throat business tactics, she looked a bit silly.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">86</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">87</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">88</td>
+    <td class="tg-0pky">Jason Curis</td>
+    <td class="tg-0pky">Real estate manager</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">24</td>
+    <td class="tg-0pky">Detroit, Michigan</td>
+    <td class="tg-0pky">Fired in week 2 (1–15–2004)</td>
+    <td class="tg-0pky">A young guy who probably had a lot more to offer. I don't think he should have been voted out in week 2, and he a lot more to offer. However, I can only rank Jason so high with such little time spent on the show.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">89</td>
+    <td class="tg-0pky">Bradford Cohen</td>
+    <td class="tg-0pky">Attorney</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">33</td>
+    <td class="tg-0pky">Fort Lauderdale, Florida</td>
+    <td class="tg-0pky">Fired in week 2 (9-16-2004)</td>
+    <td class="tg-0pky">Ten seconds of stupidity defined his time on The Apprentice. Just before being fired, Trump said "I think you're the best one in the room." Undoubtedly, Brad would have been ranked higher had he not waived his exemption in week 2.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">90</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">91</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">92</td>
+    <td class="tg-0pky">Sam Solovey</td>
+    <td class="tg-0pky">Business Director</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">27</td>
+    <td class="tg-0pky">Chevy Chase, Maryland</td>
+    <td class="tg-0pky">Fired in week 3 (1–22–2004)</td>
+    <td class="tg-0pky">Still trying to figure out whether Sam was sort of brilliant or completely insane. If we're living in a Men In Black world, Sam is definitely an alien.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">93</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">94</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">95</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">96</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">97</td>
+    <td class="tg-0pky">Bowie Hogg</td>
+    <td class="tg-0pky">Account executive</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">25</td>
+    <td class="tg-0pky">Arlington, Texas</td>
+    <td class="tg-0pky">Fired in week 4 (1–29–2004)</td>
+    <td class="tg-0pky">Bowie made me want to fall asleep whenever I saw his attempt at displaying business savvy.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">98</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">99</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">100</td>
+    <td class="tg-0pky">Rob Flanagan</td>
+    <td class="tg-0pky">Corporate Branding Salesman</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">32</td>
+    <td class="tg-0pky">Frisco, Texas</td>
+    <td class="tg-0pky">Fired in week 1 (9-9-2004)</td>
+    <td class="tg-0pky">It's hard to put anyone in the top 100 who was fired first. Honestly, Rob didn't seem terrible, but I didn't see anything special from him.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">101</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">102</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">103</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">104</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">105</td>
+    <td class="tg-0pky">Tarek Saab</td>
+    <td class="tg-0pky">Hi-tech manager</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">27</td>
+    <td class="tg-0pky">New Bedford, Massachusetts</td>
+    <td class="tg-0pky">Fired in week 10 (5–1–2006)</td>
+    <td class="tg-0pky">The only people who are impressed by Mensa are people in Mensa (and I guess Donald Trump). The guy just wasn't that good.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">106</td>
+    <td class="tg-0pky">Tammy Lee</td>
+    <td class="tg-0pky">Stockbroker</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">36</td>
+    <td class="tg-0pky">Seattle, Washington</td>
+    <td class="tg-0pky">Fired in week 7 (2–19–2004)</td>
+    <td class="tg-0pky">I couldn't stop sighing at her lack of ability to grasp the most simple concepts in business and negotiation.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">107</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">108</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">109</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">110</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">111</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">112</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">113</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">114</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">115</td>
+    <td class="tg-0pky">David Gould</td>
+    <td class="tg-0pky">Venture Capitalist</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">31</td>
+    <td class="tg-0pky">New York, New York</td>
+    <td class="tg-0pky">Fired in week 1 (1–8–2004)</td>
+    <td class="tg-0pky">Probably not a terrible candidate, but how high can I rank someone who was the first person in Apprentice history to be fired?</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">116</td>
+    <td class="tg-0pky">Stacie Jones Upchurch</td>
+    <td class="tg-0pky">Restaurateur</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">35</td>
+    <td class="tg-0pky">New York, New York</td>
+    <td class="tg-0pky">Fired in week 3 (9-23-2004)</td>
+    <td class="tg-0pky">Weird, multiple personalities in the offices of Mattel made quite the impression.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">117</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">118</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">119</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">120</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">121</td>
+    <td class="tg-0pky">Michelle Sorro</td>
+    <td class="tg-0pky">Real estate consultant</td>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">34</td>
+    <td class="tg-0pky">Los Angeles, California</td>
+    <td class="tg-0pky">Quit in week 3 (1-21-2007)</td>
+    <td class="tg-0pky">Seemed to only want to be on the show to live in Trump Tower in New York. Living in a tent in Los Angeles was the complete opposite, so she quit. Terribly boring contestant with no shown skill.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">122</td>
+    <td class="tg-0pky">Omarosa Manigault-Stallworth</td>
+    <td class="tg-0pky">"Political Consultant"</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">29</td>
+    <td class="tg-0pky">Youngstown, Ohio</td>
+    <td class="tg-0pky">Fired in week 9 (3–4–2004)</td>
+    <td class="tg-0pky">Any shred of skill was eclipsed by her complete inability to stop being the least likeable person I've ever watched on TV. First, it was general cattiness that would invoke a sigh. Then it was a "concussion" from a piece of falling plaster. Then it was lying and being lazy in Kwame's final task so she could schmooze with celebrities and have a good time. Omarosa was one eye roll after another.</td>
+  </tr>

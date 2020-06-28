@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Some Key COVID-19 Data Points"
+date:   '2020-04-08'
+categories: Markets Coronavirus COVID-19
+---
+Consolidating some key data points around the COVID-19 outbreak might be helpful. I hope the following provides insight on what's happened and what's happening so we can better understand what will happen under different circumstances.
+
+<h2>CONVID-19 Cases Statistics</h2>
+<b>The following shows the <i>total</i> of confirmed COVID-19 cases:</b>
+<iframe src="https://ourworldindata.org/grapher/total-cases-covid-19" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<b>The following shows <i>daily</i> confirmed COVID-19 cases:</b>
+<iframe src="https://ourworldindata.org/grapher/daily-cases-covid-19?country=USA+ITA+KOR+GBR" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<br>
+
+<h2>CONVID-19 Death Statistics</h2>
+<b>The following shows the <i>total</i> number of confirmed CONVID-19 deaths:</b>
+<iframe src="https://ourworldindata.org/grapher/total-daily-covid-deaths?tab=map" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<b>The following represents the number of <i>daily</i> deaths on a day-by-day basis: </b>
+<iframe src="https://ourworldindata.org/grapher/daily-deaths-covid-19" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<b>Related to the chart above, the following breaks down new <i>daily</i> deaths by country:</b>
+<iframe src="https://ourworldindata.org/grapher/daily-covid-deaths-3-day-average" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<br>
+
+<h2>What countries are bending the curve?</h2>
+<h3>A few things are important to consider when looking at the following graph:</h3>
+<h4>
+  <ul style="list-style-type:disc;">
+  <li>confirmed cases measures the state of an outbreak in a country <i>and</i> also how agressively that country is testing</li>
+  <li>this is a log scale, so just looking at a trend without proper reference can be misleading</li>
+  <li>this chart does not measure the infection rate by taking into account population size, but rather totals</li>
+  <li>the x-axis does not measure time, but rather the number of days since confirmed cases first reached 30 per day</li>
+</ul>
+</h4>
+
+<h3>Epidemiological trajectory of <i>confirmed daily cases</i></h3>
+<iframe src="https://ourworldindata.org/grapher/covid-confirmed-daily-cases-epidemiological-trajectory" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<br>
+
+Epidemiological trajectory of <i>confirmed daily deaths</i>
+<iframe src="https://ourworldindata.org/grapher/covid-confirmed-daily-deaths-epidemiological-trajectory" style="width: 100%; height: 600px; border: 0px none;"></iframe>
