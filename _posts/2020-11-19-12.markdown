@@ -13,14 +13,10 @@ Naturally, a historic low in the cost to borrow money to buy a house has led to 
 
 <img src="/assets/octoberHousing/existingHomeInventory.png"/>
 
-A declining hospitalization rate is encouraging. Good news continued when I noticed a downward trend in confirmed deaths by day. Theses numbers are still troubling, but better than many would lead you to believe:
+Even with the supply of houses at a historic low, there are plenty of existing homeowners scrambling to take advantage of the unbeatable interest rates. Below is a graph showing the share of refinances and purchases for new mortgages:
 <img src="/assets/octoberHousing/mortgageOriginations.png"/>
 
-Last, I graphed the rolling 3-day average for daily confirmed deaths:
+Finally, it's worth noting the trend in price growth is not limited to any specific region in the United States; we're seeing this upward trend everywhere (see graph below). The question is, how long can it all last?
 <img src="/assets/octoberHousing/housePriceGrowthByRegion.png"/>
-
-I'm not an epidemiologist and I'm not a medical doctor, so I don't fully understand what all of this data means. However, based on the different data sets, I'm encouraged by what I see. Hopefully we will continue seeing hospitalization rates and daily deaths counts trend in the right direction.
-
-If the daily confirmed case counts <i>does</i> end up being more troubling than it seems right now, I'll write an updated overview of the data and how it has changed.
 
 Sources: Len Kiefer; Federal Housing Finance Agency (FHFA)
