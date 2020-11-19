@@ -9,9 +9,8 @@ The housing market is hot. It's been warming up for some time now, but the Feder
 First, let's look at a fifteen-year view tracking the change in mortgage rates:
 <img src="/assets/octoberHousing/mortgageRateTrends.png"/>
 
-A rise in cases is initially troubling, but there are several factors which can obscure the meaning in an upward trending total case count.
+Naturally, a historic low in the cost to borrow money to buy a house has led to historic demand of refiances and new purchases. However, the existing home inventory is near a record low (see chart below). This is creating the perfect environment for high prices in an economy which is still looking to get its footing admist the pandemic.
 
-Next, I looked at the weekly hospitalization rate for different age groups since the the first data sample was taken - March 7th, the end to the first week of data collection (all graphs except this one start on March 1st). <a href="/covid/hospitalization20200613">You can look here at the raw numbers</a> or simply look at the graph below:
 <img src="/assets/octoberHousing/existingHomeInventory.png"/>
 
 A declining hospitalization rate is encouraging. Good news continued when I noticed a downward trend in confirmed deaths by day. Theses numbers are still troubling, but better than many would lead you to believe:
@@ -23,3 +22,5 @@ Last, I graphed the rolling 3-day average for daily confirmed deaths:
 I'm not an epidemiologist and I'm not a medical doctor, so I don't fully understand what all of this data means. However, based on the different data sets, I'm encouraged by what I see. Hopefully we will continue seeing hospitalization rates and daily deaths counts trend in the right direction.
 
 If the daily confirmed case counts <i>does</i> end up being more troubling than it seems right now, I'll write an updated overview of the data and how it has changed.
+
+Sources: Len Kiefer; Federal Housing Finance Agency (FHFA)
