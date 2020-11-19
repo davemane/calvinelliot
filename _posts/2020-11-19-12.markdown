@@ -6,7 +6,7 @@ categories: Housing Economy
 ---
 The housing market is hot. It's been warming up for some time now, but the Federal Reserve dropping the federal funds rate to zero percent in response to the COVID-19 pandemic has fueled the mortgage industry to experience demand not seen since the 2000s. Consumers getting historically cheap mortgages has led to refinances and new mortgage originations in a way that seems unsustainable. But is it?
 
-First, let's look at the historic change in mortgage rates:
+First, let's look at a fifteen-year view tracking the change in mortgage rates:
 <img src="/assets/octoberHousing/mortgageRateTrends.png"/>
 
 A rise in cases is initially troubling, but there are several factors which can obscure the meaning in an upward trending total case count.
