@@ -7,7 +7,7 @@ categories: Housing Economy
 Markets were rattled today with the DOW tumbling more than 700 points and the S&P 500 shedding just shy of 81. The loss can be contributed to a reduction in confidence of whether COVID-19 in the United States is actually under control. Numbers in states which reopened their economies early are contributing the greatest to the rising numnber of cases. I decided to look at some of the key numbers to determine whether this is truly something to panic about.
 
 First, I looked at the number of cofirmed cases in the United States since March 1st:
-<img src="/assets/covid/daily_cases20200624.png"/>
+<img src="/assets/octoberHousing/mortgageRateTrends.png"/>
 
 A rise in cases is initially troubling, but there are several factors which can obscure the meaning in an upward trending total case count.
 
