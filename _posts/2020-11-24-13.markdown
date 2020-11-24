@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Another Check on Housing"
+date:   '2020-11-24'
+categories: Housing Economy
+---
+The housing market is hot. It's been warming up for some time now, but the Federal Reserve dropping the federal funds rate to zero percent in response to the COVID-19 pandemic has fueled the mortgage industry to experience demand not seen since the 2000s. Consumers getting historically cheap mortgages has led to refinances and new mortgage originations in a way that seems unsustainable. But is it?
+
+First, let's look at a fifteen-year view tracking the change in mortgage rates:
+<img src="/assets/octoberHousing/mortgageRateTrends.png"/>
+
+Naturally, a historic low in the cost to borrow money to buy a house has led to historic demand of refiances and new purchases. However, the existing home inventory is near a record low (see chart below). This is creating the perfect environment for high prices in an economy which is still looking to get its footing admist the pandemic.
+
+<img src="/assets/octoberHousing/existingHomeInventory.png"/>
+
+Even with the supply of houses at a historic low, there are plenty of existing homeowners scrambling to take advantage of the unbeatable interest rates. Below is a graph showing the share of refinances and purchases for new mortgages:
+<img src="/assets/octoberHousing/mortgageOriginations.png"/>
+
+Finally, it's worth noting the trend in price growth is not limited to any specific region in the United States; we're seeing this upward trend everywhere (see graph below). The question is, how long can it all last?
+<img src="/assets/octoberHousing/housePriceGrowthByRegion.png"/>
+
+Sources: Len Kiefer; Federal Housing Finance Agency (FHFA)
