@@ -2,8 +2,8 @@
 layout: post
 title:  "What Happens When Machines Do All the Work?"
 date:   '2020-12-02'
-categories: Future Economy AI Technology
+categories: Future Economy AI Technology UBI
 ---
-It's been happening for years - machines are establishing an ever-increasing presence in the economy and weeding people out of good, blue-collar jobs. We saw it first with manufacturing and now we're seeing it with kitchen work at fast food restaurants. At what point do we bite the bullet and realize universale basic income is going to be a necessity, if not already.
+It's been happening for years - machines are establishing an ever-increasing presence in the economy and weeding people out of good, blue-collar jobs. We saw it first with manufacturing and now we're seeing it with kitchen work at fast food restaurants. At what point do we bite the bullet and realize universal basic income is going to be a necessity, if not already.
 
 More to come...
