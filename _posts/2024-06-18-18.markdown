@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Then and Now: 2024 is not the 1970s"
+date:   '2024-06-18'
+categories: Economy Inflation Stagflation
+---
+Half way through 2024, the economy doesn't feel extraordinarily strong. There is a general sense of impending economic downturn because of the obvious post-Covid inflation, a softening labor force, etc.
+
+First, let's look at stagflation in from 1974-1981 when the US economy experienced high levels of both inflation and unemployment:
+<img src="/assets/june2024inflation/stagflation7481.png"/>
+
+Below is a look at what stagflation numbers have looked like from 2020 until half way through 2024:
+<img src="/assets/june2024inflation/stagflation2024.png"/>
