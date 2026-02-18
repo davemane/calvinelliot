@@ -5,6 +5,14 @@ description: > # this means to ignore newlines until "show_exerpts:"
   davemane is interested in everyday economics and uses this platform to discuss economics, markets, and how uncertainty relates to both.
 show_excerpts: true # set to true to show excerpts on the homepage
 
+# added below section on 2/18/2026 for troubleshooting purposes
+# Build settings
+remote_theme: samarsault/plainwhite-jekyll
+theme: jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
