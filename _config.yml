@@ -60,7 +60,8 @@ plainwhite:
 #- about.md
 
 # Build settings
-theme: plainwhite
+# commented below line out on 2/18/2026 for troubleshooting purposes
+# theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
