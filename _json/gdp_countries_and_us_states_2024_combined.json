@@ -1,0 +1,2682 @@
+[
+  {
+    "combined_rank": 1,
+    "name": "United States",
+    "type": "Country/Economy",
+    "gdp_usd": 29184890000000,
+    "gdp_usd_trillions": 29.18489,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 1
+  },
+  {
+    "combined_rank": 2,
+    "name": "China",
+    "type": "Country/Economy",
+    "gdp_usd": 18743803170827,
+    "gdp_usd_trillions": 18.743803,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 2
+  },
+  {
+    "combined_rank": 3,
+    "name": "Germany",
+    "type": "Country/Economy",
+    "gdp_usd": 4659929336891,
+    "gdp_usd_trillions": 4.659929,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 3
+  },
+  {
+    "combined_rank": 4,
+    "name": "California",
+    "type": "U.S. State",
+    "gdp_usd": 4132221000000,
+    "gdp_usd_trillions": 4.132221,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 5,
+    "name": "Japan",
+    "type": "Country/Economy",
+    "gdp_usd": 4026210821147,
+    "gdp_usd_trillions": 4.026211,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 4
+  },
+  {
+    "combined_rank": 6,
+    "name": "India",
+    "type": "Country/Economy",
+    "gdp_usd": 3912686168582,
+    "gdp_usd_trillions": 3.912686,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 5
+  },
+  {
+    "combined_rank": 7,
+    "name": "United Kingdom",
+    "type": "Country/Economy",
+    "gdp_usd": 3643834188783,
+    "gdp_usd_trillions": 3.643834,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 6
+  },
+  {
+    "combined_rank": 8,
+    "name": "France",
+    "type": "Country/Economy",
+    "gdp_usd": 3162079073496,
+    "gdp_usd_trillions": 3.162079,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 7
+  },
+  {
+    "combined_rank": 9,
+    "name": "Texas",
+    "type": "U.S. State",
+    "gdp_usd": 2727002000000,
+    "gdp_usd_trillions": 2.727002,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 10,
+    "name": "Italy",
+    "type": "Country/Economy",
+    "gdp_usd": 2372774547793,
+    "gdp_usd_trillions": 2.372775,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 8
+  },
+  {
+    "combined_rank": 11,
+    "name": "New York",
+    "type": "U.S. State",
+    "gdp_usd": 2310968000000,
+    "gdp_usd_trillions": 2.310968,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 12,
+    "name": "Canada",
+    "type": "Country/Economy",
+    "gdp_usd": 2241253230970,
+    "gdp_usd_trillions": 2.241253,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 9
+  },
+  {
+    "combined_rank": 13,
+    "name": "Brazil",
+    "type": "Country/Economy",
+    "gdp_usd": 2179412080829,
+    "gdp_usd_trillions": 2.179412,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 10
+  },
+  {
+    "combined_rank": 14,
+    "name": "Russia",
+    "type": "Country/Economy",
+    "gdp_usd": 2173835806672,
+    "gdp_usd_trillions": 2.173836,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 11
+  },
+  {
+    "combined_rank": 15,
+    "name": "South Korea",
+    "type": "Country/Economy",
+    "gdp_usd": 1875388000000,
+    "gdp_usd_trillions": 1.875388,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 12
+  },
+  {
+    "combined_rank": 16,
+    "name": "Mexico",
+    "type": "Country/Economy",
+    "gdp_usd": 1852722885258,
+    "gdp_usd_trillions": 1.852723,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 13
+  },
+  {
+    "combined_rank": 17,
+    "name": "Australia",
+    "type": "Country/Economy",
+    "gdp_usd": 1752193307380,
+    "gdp_usd_trillions": 1.752193,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 14
+  },
+  {
+    "combined_rank": 18,
+    "name": "Spain",
+    "type": "Country/Economy",
+    "gdp_usd": 1722745978335,
+    "gdp_usd_trillions": 1.722746,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 15
+  },
+  {
+    "combined_rank": 19,
+    "name": "Florida",
+    "type": "U.S. State",
+    "gdp_usd": 1717871000000,
+    "gdp_usd_trillions": 1.717871,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 20,
+    "name": "Indonesia",
+    "type": "Country/Economy",
+    "gdp_usd": 1396300098191,
+    "gdp_usd_trillions": 1.3963,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 16
+  },
+  {
+    "combined_rank": 21,
+    "name": "Turkey",
+    "type": "Country/Economy",
+    "gdp_usd": 1323254808059,
+    "gdp_usd_trillions": 1.323255,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 17
+  },
+  {
+    "combined_rank": 22,
+    "name": "Saudi Arabia",
+    "type": "Country/Economy",
+    "gdp_usd": 1237529866667,
+    "gdp_usd_trillions": 1.23753,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 18
+  },
+  {
+    "combined_rank": 23,
+    "name": "Netherlands",
+    "type": "Country/Economy",
+    "gdp_usd": 1227543925316,
+    "gdp_usd_trillions": 1.227544,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 19
+  },
+  {
+    "combined_rank": 24,
+    "name": "Illinois",
+    "type": "U.S. State",
+    "gdp_usd": 1143081000000,
+    "gdp_usd_trillions": 1.143081,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 25,
+    "name": "Pennsylvania",
+    "type": "U.S. State",
+    "gdp_usd": 1032270000000,
+    "gdp_usd_trillions": 1.03227,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 26,
+    "name": "Switzerland",
+    "type": "Country/Economy",
+    "gdp_usd": 936564198049,
+    "gdp_usd_trillions": 0.936564,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 20
+  },
+  {
+    "combined_rank": 27,
+    "name": "Ohio",
+    "type": "U.S. State",
+    "gdp_usd": 933044000000,
+    "gdp_usd_trillions": 0.933044,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 28,
+    "name": "Poland",
+    "type": "Country/Economy",
+    "gdp_usd": 914696430325,
+    "gdp_usd_trillions": 0.914696,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 21
+  },
+  {
+    "combined_rank": 29,
+    "name": "Georgia",
+    "type": "U.S. State",
+    "gdp_usd": 887924000000,
+    "gdp_usd_trillions": 0.887924,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 30,
+    "name": "Washington",
+    "type": "U.S. State",
+    "gdp_usd": 859887000000,
+    "gdp_usd_trillions": 0.859887,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 31,
+    "name": "New Jersey",
+    "type": "U.S. State",
+    "gdp_usd": 851863000000,
+    "gdp_usd_trillions": 0.851863,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 32,
+    "name": "North Carolina",
+    "type": "U.S. State",
+    "gdp_usd": 845143000000,
+    "gdp_usd_trillions": 0.845143,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 33,
+    "name": "Taiwan",
+    "type": "Country/Economy",
+    "gdp_usd": 797004000000,
+    "gdp_usd_trillions": 0.797004,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 22
+  },
+  {
+    "combined_rank": 34,
+    "name": "Massachusetts",
+    "type": "U.S. State",
+    "gdp_usd": 785141000000,
+    "gdp_usd_trillions": 0.785141,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 35,
+    "name": "Virginia",
+    "type": "U.S. State",
+    "gdp_usd": 769660000000,
+    "gdp_usd_trillions": 0.76966,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 36,
+    "name": "Michigan",
+    "type": "U.S. State",
+    "gdp_usd": 711481000000,
+    "gdp_usd_trillions": 0.711481,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 37,
+    "name": "Belgium",
+    "type": "Country/Economy",
+    "gdp_usd": 664564181487,
+    "gdp_usd_trillions": 0.664564,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 23
+  },
+  {
+    "combined_rank": 38,
+    "name": "Argentina",
+    "type": "Country/Economy",
+    "gdp_usd": 633266692534,
+    "gdp_usd_trillions": 0.633267,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 24
+  },
+  {
+    "combined_rank": 39,
+    "name": "Sweden",
+    "type": "Country/Economy",
+    "gdp_usd": 610117791237,
+    "gdp_usd_trillions": 0.610118,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 25
+  },
+  {
+    "combined_rank": 40,
+    "name": "Ireland",
+    "type": "Country/Economy",
+    "gdp_usd": 577389475010,
+    "gdp_usd_trillions": 0.577389,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 26
+  },
+  {
+    "combined_rank": 41,
+    "name": "Colorado",
+    "type": "U.S. State",
+    "gdp_usd": 557308000000,
+    "gdp_usd_trillions": 0.557308,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 42,
+    "name": "Arizona",
+    "type": "U.S. State",
+    "gdp_usd": 555614000000,
+    "gdp_usd_trillions": 0.555614,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 43,
+    "name": "Tennessee",
+    "type": "U.S. State",
+    "gdp_usd": 553471000000,
+    "gdp_usd_trillions": 0.553471,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 44,
+    "name": "Singapore",
+    "type": "Country/Economy",
+    "gdp_usd": 547386645892,
+    "gdp_usd_trillions": 0.547387,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 27
+  },
+  {
+    "combined_rank": 45,
+    "name": "Maryland",
+    "type": "U.S. State",
+    "gdp_usd": 546362000000,
+    "gdp_usd_trillions": 0.546362,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 46,
+    "name": "Israel",
+    "type": "Country/Economy",
+    "gdp_usd": 540379921262,
+    "gdp_usd_trillions": 0.54038,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 28
+  },
+  {
+    "combined_rank": 47,
+    "name": "United Arab Emirates",
+    "type": "Country/Economy",
+    "gdp_usd": 537078829135,
+    "gdp_usd_trillions": 0.537079,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 29
+  },
+  {
+    "combined_rank": 48,
+    "name": "Indiana",
+    "type": "U.S. State",
+    "gdp_usd": 530661000000,
+    "gdp_usd_trillions": 0.530661,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 49,
+    "name": "Thailand",
+    "type": "Country/Economy",
+    "gdp_usd": 526411265428,
+    "gdp_usd_trillions": 0.526411,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 30
+  },
+  {
+    "combined_rank": 50,
+    "name": "Austria",
+    "type": "Country/Economy",
+    "gdp_usd": 521642466922,
+    "gdp_usd_trillions": 0.521642,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 31
+  },
+  {
+    "combined_rank": 51,
+    "name": "Minnesota",
+    "type": "U.S. State",
+    "gdp_usd": 502946000000,
+    "gdp_usd_trillions": 0.502946,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 52,
+    "name": "Norway",
+    "type": "Country/Economy",
+    "gdp_usd": 483727398216,
+    "gdp_usd_trillions": 0.483727,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 32
+  },
+  {
+    "combined_rank": 53,
+    "name": "Vietnam",
+    "type": "Country/Economy",
+    "gdp_usd": 476388230307,
+    "gdp_usd_trillions": 0.476388,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 33
+  },
+  {
+    "combined_rank": 54,
+    "name": "Philippines",
+    "type": "Country/Economy",
+    "gdp_usd": 461617509782,
+    "gdp_usd_trillions": 0.461618,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 34
+  },
+  {
+    "combined_rank": 55,
+    "name": "Wisconsin",
+    "type": "U.S. State",
+    "gdp_usd": 455591000000,
+    "gdp_usd_trillions": 0.455591,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 56,
+    "name": "Missouri",
+    "type": "U.S. State",
+    "gdp_usd": 454580000000,
+    "gdp_usd_trillions": 0.45458,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 57,
+    "name": "Bangladesh",
+    "type": "Country/Economy",
+    "gdp_usd": 450119424622,
+    "gdp_usd_trillions": 0.450119,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 35
+  },
+  {
+    "combined_rank": 58,
+    "name": "Iran",
+    "type": "Country/Economy",
+    "gdp_usd": 436906331672,
+    "gdp_usd_trillions": 0.436906,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 36
+  },
+  {
+    "combined_rank": 59,
+    "name": "Denmark",
+    "type": "Country/Economy",
+    "gdp_usd": 429457372072,
+    "gdp_usd_trillions": 0.429457,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 37
+  },
+  {
+    "combined_rank": 60,
+    "name": "Malaysia",
+    "type": "Country/Economy",
+    "gdp_usd": 421972102254,
+    "gdp_usd_trillions": 0.421972,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 38
+  },
+  {
+    "combined_rank": 61,
+    "name": "Colombia",
+    "type": "Country/Economy",
+    "gdp_usd": 418542042920,
+    "gdp_usd_trillions": 0.418542,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 39
+  },
+  {
+    "combined_rank": 62,
+    "name": "Hong Kong",
+    "type": "Country/Economy",
+    "gdp_usd": 407106738445,
+    "gdp_usd_trillions": 0.407107,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 40
+  },
+  {
+    "combined_rank": 63,
+    "name": "South Africa",
+    "type": "Country/Economy",
+    "gdp_usd": 400260724226,
+    "gdp_usd_trillions": 0.400261,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 41
+  },
+  {
+    "combined_rank": 64,
+    "name": "Egypt",
+    "type": "Country/Economy",
+    "gdp_usd": 389059911004,
+    "gdp_usd_trillions": 0.38906,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 42
+  },
+  {
+    "combined_rank": 65,
+    "name": "Romania",
+    "type": "Country/Economy",
+    "gdp_usd": 382767571329,
+    "gdp_usd_trillions": 0.382768,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 43
+  },
+  {
+    "combined_rank": 66,
+    "name": "Pakistan",
+    "type": "Country/Economy",
+    "gdp_usd": 373071855732,
+    "gdp_usd_trillions": 0.373072,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 44
+  },
+  {
+    "combined_rank": 67,
+    "name": "Connecticut",
+    "type": "U.S. State",
+    "gdp_usd": 368321000000,
+    "gdp_usd_trillions": 0.368321,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 68,
+    "name": "South Carolina",
+    "type": "U.S. State",
+    "gdp_usd": 352048000000,
+    "gdp_usd_trillions": 0.352048,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 69,
+    "name": "Czech Republic (Czechia)",
+    "type": "Country/Economy",
+    "gdp_usd": 345036675975,
+    "gdp_usd_trillions": 0.345037,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 45
+  },
+  {
+    "combined_rank": 70,
+    "name": "Oregon",
+    "type": "U.S. State",
+    "gdp_usd": 333467000000,
+    "gdp_usd_trillions": 0.333467,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 71,
+    "name": "Chile",
+    "type": "Country/Economy",
+    "gdp_usd": 330267137372,
+    "gdp_usd_trillions": 0.330267,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 46
+  },
+  {
+    "combined_rank": 72,
+    "name": "Louisiana",
+    "type": "U.S. State",
+    "gdp_usd": 328961000000,
+    "gdp_usd_trillions": 0.328961,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 73,
+    "name": "Alabama",
+    "type": "U.S. State",
+    "gdp_usd": 324078000000,
+    "gdp_usd_trillions": 0.324078,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 74,
+    "name": "Portugal",
+    "type": "Country/Economy",
+    "gdp_usd": 308683317393,
+    "gdp_usd_trillions": 0.308683,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 47
+  },
+  {
+    "combined_rank": 75,
+    "name": "Utah",
+    "type": "U.S. State",
+    "gdp_usd": 303367000000,
+    "gdp_usd_trillions": 0.303367,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 76,
+    "name": "Finland",
+    "type": "Country/Economy",
+    "gdp_usd": 299835625551,
+    "gdp_usd_trillions": 0.299836,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 48
+  },
+  {
+    "combined_rank": 77,
+    "name": "Kentucky",
+    "type": "U.S. State",
+    "gdp_usd": 295140000000,
+    "gdp_usd_trillions": 0.29514,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 78,
+    "name": "Peru",
+    "type": "Country/Economy",
+    "gdp_usd": 289221969060,
+    "gdp_usd_trillions": 0.289222,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 49
+  },
+  {
+    "combined_rank": 79,
+    "name": "Kazakhstan",
+    "type": "Country/Economy",
+    "gdp_usd": 288406138231,
+    "gdp_usd_trillions": 0.288406,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 50
+  },
+  {
+    "combined_rank": 80,
+    "name": "Iraq",
+    "type": "Country/Economy",
+    "gdp_usd": 279641257615,
+    "gdp_usd_trillions": 0.279641,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 51
+  },
+  {
+    "combined_rank": 81,
+    "name": "Oklahoma",
+    "type": "U.S. State",
+    "gdp_usd": 267321000000,
+    "gdp_usd_trillions": 0.267321,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 82,
+    "name": "Algeria",
+    "type": "Country/Economy",
+    "gdp_usd": 263619794507,
+    "gdp_usd_trillions": 0.26362,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 52
+  },
+  {
+    "combined_rank": 83,
+    "name": "Nevada",
+    "type": "U.S. State",
+    "gdp_usd": 262036000000,
+    "gdp_usd_trillions": 0.262036,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 84,
+    "name": "New Zealand",
+    "type": "Country/Economy",
+    "gdp_usd": 260235932559,
+    "gdp_usd_trillions": 0.260236,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 53
+  },
+  {
+    "combined_rank": 85,
+    "name": "Iowa",
+    "type": "U.S. State",
+    "gdp_usd": 257575000000,
+    "gdp_usd_trillions": 0.257575,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 86,
+    "name": "Greece",
+    "type": "Country/Economy",
+    "gdp_usd": 257144811302,
+    "gdp_usd_trillions": 0.257145,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 54
+  },
+  {
+    "combined_rank": 87,
+    "name": "Kansas",
+    "type": "U.S. State",
+    "gdp_usd": 236123000000,
+    "gdp_usd_trillions": 0.236123,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 88,
+    "name": "Hungary",
+    "type": "Country/Economy",
+    "gdp_usd": 222904723252,
+    "gdp_usd_trillions": 0.222905,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 55
+  },
+  {
+    "combined_rank": 89,
+    "name": "Qatar",
+    "type": "Country/Economy",
+    "gdp_usd": 217982967033,
+    "gdp_usd_trillions": 0.217983,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 56
+  },
+  {
+    "combined_rank": 90,
+    "name": "Cuba",
+    "type": "Country/Economy",
+    "gdp_usd": 201985998168,
+    "gdp_usd_trillions": 0.201986,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 57
+  },
+  {
+    "combined_rank": 91,
+    "name": "Ukraine",
+    "type": "Country/Economy",
+    "gdp_usd": 190741263732,
+    "gdp_usd_trillions": 0.190741,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 58
+  },
+  {
+    "combined_rank": 92,
+    "name": "Arkansas",
+    "type": "U.S. State",
+    "gdp_usd": 190230000000,
+    "gdp_usd_trillions": 0.19023,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 93,
+    "name": "Nigeria",
+    "type": "Country/Economy",
+    "gdp_usd": 187759703100,
+    "gdp_usd_trillions": 0.18776,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 59
+  },
+  {
+    "combined_rank": 94,
+    "name": "Nebraska",
+    "type": "U.S. State",
+    "gdp_usd": 185967000000,
+    "gdp_usd_trillions": 0.185967,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 95,
+    "name": "Kuwait",
+    "type": "Country/Economy",
+    "gdp_usd": 160227273001,
+    "gdp_usd_trillions": 0.160227,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 60
+  },
+  {
+    "combined_rank": 96,
+    "name": "Mississippi",
+    "type": "U.S. State",
+    "gdp_usd": 158548000000,
+    "gdp_usd_trillions": 0.158548,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 97,
+    "name": "Morocco",
+    "type": "Country/Economy",
+    "gdp_usd": 154430996473,
+    "gdp_usd_trillions": 0.154431,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 61
+  },
+  {
+    "combined_rank": 98,
+    "name": "Ethiopia",
+    "type": "Country/Economy",
+    "gdp_usd": 142073000000,
+    "gdp_usd_trillions": 0.142073,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 62
+  },
+  {
+    "combined_rank": 99,
+    "name": "Slovakia",
+    "type": "Country/Economy",
+    "gdp_usd": 141775733420,
+    "gdp_usd_trillions": 0.141776,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 63
+  },
+  {
+    "combined_rank": 100,
+    "name": "New Mexico",
+    "type": "U.S. State",
+    "gdp_usd": 141302000000,
+    "gdp_usd_trillions": 0.141302,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 101,
+    "name": "Idaho",
+    "type": "U.S. State",
+    "gdp_usd": 129644000000,
+    "gdp_usd_trillions": 0.129644,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 102,
+    "name": "Puerto Rico",
+    "type": "Country/Economy",
+    "gdp_usd": 125841500000,
+    "gdp_usd_trillions": 0.125841,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 64
+  },
+  {
+    "combined_rank": 103,
+    "name": "Ecuador",
+    "type": "Country/Economy",
+    "gdp_usd": 124676074700,
+    "gdp_usd_trillions": 0.124676,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 65
+  },
+  {
+    "combined_rank": 104,
+    "name": "Kenya",
+    "type": "Country/Economy",
+    "gdp_usd": 124498691699,
+    "gdp_usd_trillions": 0.124499,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 66
+  },
+  {
+    "combined_rank": 105,
+    "name": "Dominican Republic",
+    "type": "Country/Economy",
+    "gdp_usd": 124282245639,
+    "gdp_usd_trillions": 0.124282,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 67
+  },
+  {
+    "combined_rank": 106,
+    "name": "New Hampshire",
+    "type": "U.S. State",
+    "gdp_usd": 122086000000,
+    "gdp_usd_trillions": 0.122086,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 107,
+    "name": "Venezuela",
+    "type": "Country/Economy",
+    "gdp_usd": 119803000000,
+    "gdp_usd_trillions": 0.119803,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 68
+  },
+  {
+    "combined_rank": 108,
+    "name": "Hawaii",
+    "type": "U.S. State",
+    "gdp_usd": 116292000000,
+    "gdp_usd_trillions": 0.116292,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 109,
+    "name": "Uzbekistan",
+    "type": "Country/Economy",
+    "gdp_usd": 114965293467,
+    "gdp_usd_trillions": 0.114965,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 69
+  },
+  {
+    "combined_rank": 110,
+    "name": "Guatemala",
+    "type": "Country/Economy",
+    "gdp_usd": 113199586004,
+    "gdp_usd_trillions": 0.1132,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 70
+  },
+  {
+    "combined_rank": 111,
+    "name": "Bulgaria",
+    "type": "Country/Economy",
+    "gdp_usd": 112211952704,
+    "gdp_usd_trillions": 0.112212,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 71
+  },
+  {
+    "combined_rank": 112,
+    "name": "West Virginia",
+    "type": "U.S. State",
+    "gdp_usd": 108366000000,
+    "gdp_usd_trillions": 0.108366,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 113,
+    "name": "Oman",
+    "type": "Country/Economy",
+    "gdp_usd": 106942782835,
+    "gdp_usd_trillions": 0.106943,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 72
+  },
+  {
+    "combined_rank": 114,
+    "name": "Delaware",
+    "type": "U.S. State",
+    "gdp_usd": 103996000000,
+    "gdp_usd_trillions": 0.103996,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 115,
+    "name": "Maine",
+    "type": "U.S. State",
+    "gdp_usd": 99238000000,
+    "gdp_usd_trillions": 0.099238,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 116,
+    "name": "Sri Lanka",
+    "type": "Country/Economy",
+    "gdp_usd": 98963185510,
+    "gdp_usd_trillions": 0.098963,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 73
+  },
+  {
+    "combined_rank": 117,
+    "name": "Costa Rica",
+    "type": "Country/Economy",
+    "gdp_usd": 95350423177,
+    "gdp_usd_trillions": 0.09535,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 74
+  },
+  {
+    "combined_rank": 118,
+    "name": "Luxembourg",
+    "type": "Country/Economy",
+    "gdp_usd": 93197329012,
+    "gdp_usd_trillions": 0.093197,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 75
+  },
+  {
+    "combined_rank": 119,
+    "name": "Croatia",
+    "type": "Country/Economy",
+    "gdp_usd": 92526176109,
+    "gdp_usd_trillions": 0.092526,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 76
+  },
+  {
+    "combined_rank": 120,
+    "name": "Serbia",
+    "type": "Country/Economy",
+    "gdp_usd": 89083506277,
+    "gdp_usd_trillions": 0.089084,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 77
+  },
+  {
+    "combined_rank": 121,
+    "name": "Côte d'Ivoire",
+    "type": "Country/Economy",
+    "gdp_usd": 86538413923,
+    "gdp_usd_trillions": 0.086538,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 78
+  },
+  {
+    "combined_rank": 122,
+    "name": "Panama",
+    "type": "Country/Economy",
+    "gdp_usd": 86260400000,
+    "gdp_usd_trillions": 0.08626,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 79
+  },
+  {
+    "combined_rank": 123,
+    "name": "Lithuania",
+    "type": "Country/Economy",
+    "gdp_usd": 84869215513,
+    "gdp_usd_trillions": 0.084869,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 80
+  },
+  {
+    "combined_rank": 124,
+    "name": "Rhode Island",
+    "type": "U.S. State",
+    "gdp_usd": 83128000000,
+    "gdp_usd_trillions": 0.083128,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 125,
+    "name": "Ghana",
+    "type": "Country/Economy",
+    "gdp_usd": 82825288889,
+    "gdp_usd_trillions": 0.082825,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 81
+  },
+  {
+    "combined_rank": 126,
+    "name": "Uruguay",
+    "type": "Country/Economy",
+    "gdp_usd": 80961511074,
+    "gdp_usd_trillions": 0.080962,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 82
+  },
+  {
+    "combined_rank": 127,
+    "name": "Angola",
+    "type": "Country/Economy",
+    "gdp_usd": 80396942242,
+    "gdp_usd_trillions": 0.080397,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 83
+  },
+  {
+    "combined_rank": 128,
+    "name": "Tanzania",
+    "type": "Country/Economy",
+    "gdp_usd": 78779864877,
+    "gdp_usd_trillions": 0.07878,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 84
+  },
+  {
+    "combined_rank": 129,
+    "name": "Montana",
+    "type": "U.S. State",
+    "gdp_usd": 76195000000,
+    "gdp_usd_trillions": 0.076195,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 130,
+    "name": "Belarus",
+    "type": "Country/Economy",
+    "gdp_usd": 75961865472,
+    "gdp_usd_trillions": 0.075962,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 85
+  },
+  {
+    "combined_rank": 131,
+    "name": "South Dakota",
+    "type": "U.S. State",
+    "gdp_usd": 75433000000,
+    "gdp_usd_trillions": 0.075433,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 132,
+    "name": "North Dakota",
+    "type": "U.S. State",
+    "gdp_usd": 75221000000,
+    "gdp_usd_trillions": 0.075221,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 133,
+    "name": "Azerbaijan",
+    "type": "Country/Economy",
+    "gdp_usd": 74315882353,
+    "gdp_usd_trillions": 0.074316,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 86
+  },
+  {
+    "combined_rank": 134,
+    "name": "Myanmar",
+    "type": "Country/Economy",
+    "gdp_usd": 74079772652,
+    "gdp_usd_trillions": 0.07408,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 87
+  },
+  {
+    "combined_rank": 135,
+    "name": "Slovenia",
+    "type": "Country/Economy",
+    "gdp_usd": 72485008929,
+    "gdp_usd_trillions": 0.072485,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 88
+  },
+  {
+    "combined_rank": 136,
+    "name": "DR Congo",
+    "type": "Country/Economy",
+    "gdp_usd": 70749355652,
+    "gdp_usd_trillions": 0.070749,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 89
+  },
+  {
+    "combined_rank": 137,
+    "name": "Alaska",
+    "type": "U.S. State",
+    "gdp_usd": 70141000000,
+    "gdp_usd_trillions": 0.070141,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 138,
+    "name": "Turkmenistan",
+    "type": "Country/Economy",
+    "gdp_usd": 64239891739,
+    "gdp_usd_trillions": 0.06424,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 90
+  },
+  {
+    "combined_rank": 139,
+    "name": "Uganda",
+    "type": "Country/Economy",
+    "gdp_usd": 53651874314,
+    "gdp_usd_trillions": 0.053652,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 91
+  },
+  {
+    "combined_rank": 140,
+    "name": "Tunisia",
+    "type": "Country/Economy",
+    "gdp_usd": 53409988745,
+    "gdp_usd_trillions": 0.05341,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 92
+  },
+  {
+    "combined_rank": 141,
+    "name": "Jordan",
+    "type": "Country/Economy",
+    "gdp_usd": 53352289577,
+    "gdp_usd_trillions": 0.053352,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 93
+  },
+  {
+    "combined_rank": 142,
+    "name": "Wyoming",
+    "type": "U.S. State",
+    "gdp_usd": 53154000000,
+    "gdp_usd_trillions": 0.053154,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 143,
+    "name": "Cameroon",
+    "type": "Country/Economy",
+    "gdp_usd": 51326764685,
+    "gdp_usd_trillions": 0.051327,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 94
+  },
+  {
+    "combined_rank": 144,
+    "name": "Macao",
+    "type": "Country/Economy",
+    "gdp_usd": 50183212761,
+    "gdp_usd_trillions": 0.050183,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 95
+  },
+  {
+    "combined_rank": 145,
+    "name": "Sudan",
+    "type": "Country/Economy",
+    "gdp_usd": 49909807030,
+    "gdp_usd_trillions": 0.04991,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 96
+  },
+  {
+    "combined_rank": 146,
+    "name": "Bolivia",
+    "type": "Country/Economy",
+    "gdp_usd": 49668296744,
+    "gdp_usd_trillions": 0.049668,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 97
+  },
+  {
+    "combined_rank": 147,
+    "name": "Bahrain",
+    "type": "Country/Economy",
+    "gdp_usd": 47736702128,
+    "gdp_usd_trillions": 0.047737,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 98
+  },
+  {
+    "combined_rank": 148,
+    "name": "Libya",
+    "type": "Country/Economy",
+    "gdp_usd": 46636278902,
+    "gdp_usd_trillions": 0.046636,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 99
+  },
+  {
+    "combined_rank": 149,
+    "name": "Cambodia",
+    "type": "Country/Economy",
+    "gdp_usd": 46352647035,
+    "gdp_usd_trillions": 0.046353,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 100
+  },
+  {
+    "combined_rank": 150,
+    "name": "Vermont",
+    "type": "U.S. State",
+    "gdp_usd": 46119000000,
+    "gdp_usd_trillions": 0.046119,
+    "source_year": "2024 Q3 annual rate",
+    "source": "U.S. Bureau of Economic Analysis (BEA), Table 1, current-dollar gross domestic product by state",
+    "source_rank_within_source": null
+  },
+  {
+    "combined_rank": 151,
+    "name": "Paraguay",
+    "type": "Country/Economy",
+    "gdp_usd": 44458118400,
+    "gdp_usd_trillions": 0.044458,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 101
+  },
+  {
+    "combined_rank": 152,
+    "name": "Zimbabwe",
+    "type": "Country/Economy",
+    "gdp_usd": 44187704410,
+    "gdp_usd_trillions": 0.044188,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 102
+  },
+  {
+    "combined_rank": 153,
+    "name": "Latvia",
+    "type": "Country/Economy",
+    "gdp_usd": 43520773851,
+    "gdp_usd_trillions": 0.043521,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 103
+  },
+  {
+    "combined_rank": 154,
+    "name": "Nepal",
+    "type": "Country/Economy",
+    "gdp_usd": 42914268287,
+    "gdp_usd_trillions": 0.042914,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 104
+  },
+  {
+    "combined_rank": 155,
+    "name": "Estonia",
+    "type": "Country/Economy",
+    "gdp_usd": 42764929169,
+    "gdp_usd_trillions": 0.042765,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 105
+  },
+  {
+    "combined_rank": 156,
+    "name": "Honduras",
+    "type": "Country/Economy",
+    "gdp_usd": 37093565854,
+    "gdp_usd_trillions": 0.037094,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 106
+  },
+  {
+    "combined_rank": 157,
+    "name": "Cyprus",
+    "type": "Country/Economy",
+    "gdp_usd": 36333022329,
+    "gdp_usd_trillions": 0.036333,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 107
+  },
+  {
+    "combined_rank": 158,
+    "name": "El Salvador",
+    "type": "Country/Economy",
+    "gdp_usd": 35364960000,
+    "gdp_usd_trillions": 0.035365,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 108
+  },
+  {
+    "combined_rank": 159,
+    "name": "Georgia",
+    "type": "Country/Economy",
+    "gdp_usd": 33776141251,
+    "gdp_usd_trillions": 0.033776,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 109
+  },
+  {
+    "combined_rank": 160,
+    "name": "Iceland",
+    "type": "Country/Economy",
+    "gdp_usd": 33462807983,
+    "gdp_usd_trillions": 0.033463,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 110
+  },
+  {
+    "combined_rank": 161,
+    "name": "Papua New Guinea",
+    "type": "Country/Economy",
+    "gdp_usd": 32538480024,
+    "gdp_usd_trillions": 0.032538,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 111
+  },
+  {
+    "combined_rank": 162,
+    "name": "Senegal",
+    "type": "Country/Economy",
+    "gdp_usd": 32267254425,
+    "gdp_usd_trillions": 0.032267,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 112
+  },
+  {
+    "combined_rank": 163,
+    "name": "Bosnia and Herzegovina",
+    "type": "Country/Economy",
+    "gdp_usd": 28343394203,
+    "gdp_usd_trillions": 0.028343,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 113
+  },
+  {
+    "combined_rank": 164,
+    "name": "Lebanon",
+    "type": "Country/Economy",
+    "gdp_usd": 28280000000,
+    "gdp_usd_trillions": 0.02828,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 114
+  },
+  {
+    "combined_rank": 165,
+    "name": "Albania",
+    "type": "Country/Economy",
+    "gdp_usd": 27177735528,
+    "gdp_usd_trillions": 0.027178,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 115
+  },
+  {
+    "combined_rank": 166,
+    "name": "Mali",
+    "type": "Country/Economy",
+    "gdp_usd": 26588067731,
+    "gdp_usd_trillions": 0.026588,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 116
+  },
+  {
+    "combined_rank": 167,
+    "name": "Trinidad and Tobago",
+    "type": "Country/Economy",
+    "gdp_usd": 26428963758,
+    "gdp_usd_trillions": 0.026429,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 117
+  },
+  {
+    "combined_rank": 168,
+    "name": "Zambia",
+    "type": "Country/Economy",
+    "gdp_usd": 26325775287,
+    "gdp_usd_trillions": 0.026326,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 118
+  },
+  {
+    "combined_rank": 169,
+    "name": "Armenia",
+    "type": "Country/Economy",
+    "gdp_usd": 25786585950,
+    "gdp_usd_trillions": 0.025787,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 119
+  },
+  {
+    "combined_rank": 170,
+    "name": "Guinea",
+    "type": "Country/Economy",
+    "gdp_usd": 25334307879,
+    "gdp_usd_trillions": 0.025334,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 120
+  },
+  {
+    "combined_rank": 171,
+    "name": "Haiti",
+    "type": "Country/Economy",
+    "gdp_usd": 25224154991,
+    "gdp_usd_trillions": 0.025224,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 121
+  },
+  {
+    "combined_rank": 172,
+    "name": "Guyana",
+    "type": "Country/Economy",
+    "gdp_usd": 24835899826,
+    "gdp_usd_trillions": 0.024836,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 122
+  },
+  {
+    "combined_rank": 173,
+    "name": "Malta",
+    "type": "Country/Economy",
+    "gdp_usd": 24322006608,
+    "gdp_usd_trillions": 0.024322,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 123
+  },
+  {
+    "combined_rank": 174,
+    "name": "Mongolia",
+    "type": "Country/Economy",
+    "gdp_usd": 23586055802,
+    "gdp_usd_trillions": 0.023586,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 124
+  },
+  {
+    "combined_rank": 175,
+    "name": "Burkina Faso",
+    "type": "Country/Economy",
+    "gdp_usd": 23250214910,
+    "gdp_usd_trillions": 0.02325,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 125
+  },
+  {
+    "combined_rank": 176,
+    "name": "Mozambique",
+    "type": "Country/Economy",
+    "gdp_usd": 22416650343,
+    "gdp_usd_trillions": 0.022417,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 126
+  },
+  {
+    "combined_rank": 177,
+    "name": "Benin",
+    "type": "Country/Economy",
+    "gdp_usd": 21482643720,
+    "gdp_usd_trillions": 0.021483,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 127
+  },
+  {
+    "combined_rank": 178,
+    "name": "Gabon",
+    "type": "Country/Economy",
+    "gdp_usd": 20867044936,
+    "gdp_usd_trillions": 0.020867,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 128
+  },
+  {
+    "combined_rank": 179,
+    "name": "Chad",
+    "type": "Country/Economy",
+    "gdp_usd": 20625711665,
+    "gdp_usd_trillions": 0.020626,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 129
+  },
+  {
+    "combined_rank": 180,
+    "name": "Syria",
+    "type": "Country/Economy",
+    "gdp_usd": 19993439950,
+    "gdp_usd_trillions": 0.019993,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 130
+  },
+  {
+    "combined_rank": 181,
+    "name": "Jamaica",
+    "type": "Country/Economy",
+    "gdp_usd": 19930288337,
+    "gdp_usd_trillions": 0.01993,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 131
+  },
+  {
+    "combined_rank": 182,
+    "name": "Nicaragua",
+    "type": "Country/Economy",
+    "gdp_usd": 19693982968,
+    "gdp_usd_trillions": 0.019694,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 132
+  },
+  {
+    "combined_rank": 183,
+    "name": "Niger",
+    "type": "Country/Economy",
+    "gdp_usd": 19537639288,
+    "gdp_usd_trillions": 0.019538,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 133
+  },
+  {
+    "combined_rank": 184,
+    "name": "Botswana",
+    "type": "Country/Economy",
+    "gdp_usd": 19400774882,
+    "gdp_usd_trillions": 0.019401,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 134
+  },
+  {
+    "combined_rank": 185,
+    "name": "Yemen",
+    "type": "Country/Economy",
+    "gdp_usd": 19101000000,
+    "gdp_usd_trillions": 0.019101,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 135
+  },
+  {
+    "combined_rank": 186,
+    "name": "Moldova",
+    "type": "Country/Economy",
+    "gdp_usd": 18200340854,
+    "gdp_usd_trillions": 0.0182,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 136
+  },
+  {
+    "combined_rank": 187,
+    "name": "Afghanistan",
+    "type": "Country/Economy",
+    "gdp_usd": 18080000000,
+    "gdp_usd_trillions": 0.01808,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 137
+  },
+  {
+    "combined_rank": 188,
+    "name": "Kyrgyzstan",
+    "type": "Country/Economy",
+    "gdp_usd": 17478259659,
+    "gdp_usd_trillions": 0.017478,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 138
+  },
+  {
+    "combined_rank": 189,
+    "name": "Madagascar",
+    "type": "Country/Economy",
+    "gdp_usd": 17420814801,
+    "gdp_usd_trillions": 0.017421,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 139
+  },
+  {
+    "combined_rank": 190,
+    "name": "North Macedonia",
+    "type": "Country/Economy",
+    "gdp_usd": 16685236492,
+    "gdp_usd_trillions": 0.016685,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 140
+  },
+  {
+    "combined_rank": 191,
+    "name": "Laos",
+    "type": "Country/Economy",
+    "gdp_usd": 16502933121,
+    "gdp_usd_trillions": 0.016503,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 141
+  },
+  {
+    "combined_rank": 192,
+    "name": "North Korea",
+    "type": "Country/Economy",
+    "gdp_usd": 16446632290,
+    "gdp_usd_trillions": 0.016447,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 142
+  },
+  {
+    "combined_rank": 193,
+    "name": "Bahamas",
+    "type": "Country/Economy",
+    "gdp_usd": 15832800000,
+    "gdp_usd_trillions": 0.015833,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 143
+  },
+  {
+    "combined_rank": 194,
+    "name": "Congo",
+    "type": "Country/Economy",
+    "gdp_usd": 15719985776,
+    "gdp_usd_trillions": 0.01572,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 144
+  },
+  {
+    "combined_rank": 195,
+    "name": "Brunei",
+    "type": "Country/Economy",
+    "gdp_usd": 15463134387,
+    "gdp_usd_trillions": 0.015463,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 145
+  },
+  {
+    "combined_rank": 196,
+    "name": "Mauritius",
+    "type": "Country/Economy",
+    "gdp_usd": 14952555415,
+    "gdp_usd_trillions": 0.014953,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 146
+  },
+  {
+    "combined_rank": 197,
+    "name": "Rwanda",
+    "type": "Country/Economy",
+    "gdp_usd": 14251642231,
+    "gdp_usd_trillions": 0.014252,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 147
+  },
+  {
+    "combined_rank": 198,
+    "name": "Tajikistan",
+    "type": "Country/Economy",
+    "gdp_usd": 14204575549,
+    "gdp_usd_trillions": 0.014205,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 148
+  },
+  {
+    "combined_rank": 199,
+    "name": "State of Palestine",
+    "type": "Country/Economy",
+    "gdp_usd": 13711100000,
+    "gdp_usd_trillions": 0.013711,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 149
+  },
+  {
+    "combined_rank": 200,
+    "name": "Namibia",
+    "type": "Country/Economy",
+    "gdp_usd": 13372354269,
+    "gdp_usd_trillions": 0.013372,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 150
+  },
+  {
+    "combined_rank": 201,
+    "name": "Equatorial Guinea",
+    "type": "Country/Economy",
+    "gdp_usd": 12765777677,
+    "gdp_usd_trillions": 0.012766,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 151
+  },
+  {
+    "combined_rank": 202,
+    "name": "Somalia",
+    "type": "Country/Economy",
+    "gdp_usd": 12108515110,
+    "gdp_usd_trillions": 0.012109,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 152
+  },
+  {
+    "combined_rank": 203,
+    "name": "Malawi",
+    "type": "Country/Economy",
+    "gdp_usd": 11008925323,
+    "gdp_usd_trillions": 0.011009,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 153
+  },
+  {
+    "combined_rank": 204,
+    "name": "Mauritania",
+    "type": "Country/Economy",
+    "gdp_usd": 10766731874,
+    "gdp_usd_trillions": 0.010767,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 154
+  },
+  {
+    "combined_rank": 205,
+    "name": "New Caledonia",
+    "type": "Country/Economy",
+    "gdp_usd": 10139988153,
+    "gdp_usd_trillions": 0.01014,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 155
+  },
+  {
+    "combined_rank": 206,
+    "name": "Monaco",
+    "type": "Country/Economy",
+    "gdp_usd": 9995350547,
+    "gdp_usd_trillions": 0.009995,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 156
+  },
+  {
+    "combined_rank": 207,
+    "name": "Togo",
+    "type": "Country/Economy",
+    "gdp_usd": 9925732120,
+    "gdp_usd_trillions": 0.009926,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 157
+  },
+  {
+    "combined_rank": 208,
+    "name": "Bermuda",
+    "type": "Country/Economy",
+    "gdp_usd": 8980200000,
+    "gdp_usd_trillions": 0.00898,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 158
+  },
+  {
+    "combined_rank": 209,
+    "name": "Liechtenstein",
+    "type": "Country/Economy",
+    "gdp_usd": 8500000000,
+    "gdp_usd_trillions": 0.0085,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 159
+  },
+  {
+    "combined_rank": 210,
+    "name": "Montenegro",
+    "type": "Country/Economy",
+    "gdp_usd": 8069536126,
+    "gdp_usd_trillions": 0.00807,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 160
+  },
+  {
+    "combined_rank": 211,
+    "name": "Sierra Leone",
+    "type": "Country/Economy",
+    "gdp_usd": 7547843281,
+    "gdp_usd_trillions": 0.007548,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 161
+  },
+  {
+    "combined_rank": 212,
+    "name": "Isle of Man",
+    "type": "Country/Economy",
+    "gdp_usd": 7431257411,
+    "gdp_usd_trillions": 0.007431,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 162
+  },
+  {
+    "combined_rank": 213,
+    "name": "Barbados",
+    "type": "Country/Economy",
+    "gdp_usd": 7165000000,
+    "gdp_usd_trillions": 0.007165,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 163
+  },
+  {
+    "combined_rank": 214,
+    "name": "Cayman Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 7139428558,
+    "gdp_usd_trillions": 0.007139,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 164
+  },
+  {
+    "combined_rank": 215,
+    "name": "Maldives",
+    "type": "Country/Economy",
+    "gdp_usd": 6975146349,
+    "gdp_usd_trillions": 0.006975,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 165
+  },
+  {
+    "combined_rank": 216,
+    "name": "Guam",
+    "type": "Country/Economy",
+    "gdp_usd": 6910000000,
+    "gdp_usd_trillions": 0.00691,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 166
+  },
+  {
+    "combined_rank": 217,
+    "name": "French Polynesia",
+    "type": "Country/Economy",
+    "gdp_usd": 6402221222,
+    "gdp_usd_trillions": 0.006402,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 167
+  },
+  {
+    "combined_rank": 218,
+    "name": "Fiji",
+    "type": "Country/Economy",
+    "gdp_usd": 5840564073,
+    "gdp_usd_trillions": 0.005841,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 168
+  },
+  {
+    "combined_rank": 219,
+    "name": "Eswatini",
+    "type": "Country/Economy",
+    "gdp_usd": 4891883720,
+    "gdp_usd_trillions": 0.004892,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 169
+  },
+  {
+    "combined_rank": 220,
+    "name": "Liberia",
+    "type": "Country/Economy",
+    "gdp_usd": 4750000000,
+    "gdp_usd_trillions": 0.00475,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 170
+  },
+  {
+    "combined_rank": 221,
+    "name": "Suriname",
+    "type": "Country/Economy",
+    "gdp_usd": 4714267822,
+    "gdp_usd_trillions": 0.004714,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 171
+  },
+  {
+    "combined_rank": 222,
+    "name": "U.S. Virgin Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 4672000000,
+    "gdp_usd_trillions": 0.004672,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 172
+  },
+  {
+    "combined_rank": 223,
+    "name": "South Sudan",
+    "type": "Country/Economy",
+    "gdp_usd": 4648000000,
+    "gdp_usd_trillions": 0.004648,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 173
+  },
+  {
+    "combined_rank": 224,
+    "name": "Aruba",
+    "type": "Country/Economy",
+    "gdp_usd": 4192000000,
+    "gdp_usd_trillions": 0.004192,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 174
+  },
+  {
+    "combined_rank": 225,
+    "name": "Djibouti",
+    "type": "Country/Economy",
+    "gdp_usd": 4086402719,
+    "gdp_usd_trillions": 0.004086,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 175
+  },
+  {
+    "combined_rank": 226,
+    "name": "Andorra",
+    "type": "Country/Economy",
+    "gdp_usd": 4039844390,
+    "gdp_usd_trillions": 0.00404,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 176
+  },
+  {
+    "combined_rank": 227,
+    "name": "Faeroe Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 3907323961,
+    "gdp_usd_trillions": 0.003907,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 177
+  },
+  {
+    "combined_rank": 228,
+    "name": "Belize",
+    "type": "Country/Economy",
+    "gdp_usd": 3515783329,
+    "gdp_usd_trillions": 0.003516,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 178
+  },
+  {
+    "combined_rank": 229,
+    "name": "Greenland",
+    "type": "Country/Economy",
+    "gdp_usd": 3326544174,
+    "gdp_usd_trillions": 0.003327,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 179
+  },
+  {
+    "combined_rank": 230,
+    "name": "Curaçao",
+    "type": "Country/Economy",
+    "gdp_usd": 3281419347,
+    "gdp_usd_trillions": 0.003281,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 180
+  },
+  {
+    "combined_rank": 231,
+    "name": "Bhutan",
+    "type": "Country/Economy",
+    "gdp_usd": 3098000000,
+    "gdp_usd_trillions": 0.003098,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 181
+  },
+  {
+    "combined_rank": 232,
+    "name": "Cabo Verde",
+    "type": "Country/Economy",
+    "gdp_usd": 2767599017,
+    "gdp_usd_trillions": 0.002768,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 182
+  },
+  {
+    "combined_rank": 233,
+    "name": "Central African Republic",
+    "type": "Country/Economy",
+    "gdp_usd": 2751544520,
+    "gdp_usd_trillions": 0.002752,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 183
+  },
+  {
+    "combined_rank": 234,
+    "name": "Saint Lucia",
+    "type": "Country/Economy",
+    "gdp_usd": 2549062963,
+    "gdp_usd_trillions": 0.002549,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 184
+  },
+  {
+    "combined_rank": 235,
+    "name": "Gambia",
+    "type": "Country/Economy",
+    "gdp_usd": 2507519958,
+    "gdp_usd_trillions": 0.002508,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 185
+  },
+  {
+    "combined_rank": 236,
+    "name": "Eritrea",
+    "type": "Country/Economy",
+    "gdp_usd": 2275290216,
+    "gdp_usd_trillions": 0.002275,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 186
+  },
+  {
+    "combined_rank": 237,
+    "name": "Lesotho",
+    "type": "Country/Economy",
+    "gdp_usd": 2271541846,
+    "gdp_usd_trillions": 0.002272,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 187
+  },
+  {
+    "combined_rank": 238,
+    "name": "Antigua and Barbuda",
+    "type": "Country/Economy",
+    "gdp_usd": 2224814815,
+    "gdp_usd_trillions": 0.002225,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 188
+  },
+  {
+    "combined_rank": 239,
+    "name": "Seychelles",
+    "type": "Country/Economy",
+    "gdp_usd": 2167239562,
+    "gdp_usd_trillions": 0.002167,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 189
+  },
+  {
+    "combined_rank": 240,
+    "name": "Burundi",
+    "type": "Country/Economy",
+    "gdp_usd": 2162378759,
+    "gdp_usd_trillions": 0.002162,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 190
+  },
+  {
+    "combined_rank": 241,
+    "name": "Guinea-Bissau",
+    "type": "Country/Economy",
+    "gdp_usd": 2119865935,
+    "gdp_usd_trillions": 0.00212,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 191
+  },
+  {
+    "combined_rank": 242,
+    "name": "San Marino",
+    "type": "Country/Economy",
+    "gdp_usd": 2082000000,
+    "gdp_usd_trillions": 0.002082,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 192
+  },
+  {
+    "combined_rank": 243,
+    "name": "Timor-Leste",
+    "type": "Country/Economy",
+    "gdp_usd": 1881265333,
+    "gdp_usd_trillions": 0.001881,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 193
+  },
+  {
+    "combined_rank": 244,
+    "name": "Solomon Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 1760767447,
+    "gdp_usd_trillions": 0.001761,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 194
+  },
+  {
+    "combined_rank": 245,
+    "name": "Turks and Caicos",
+    "type": "Country/Economy",
+    "gdp_usd": 1745378000,
+    "gdp_usd_trillions": 0.001745,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 195
+  },
+  {
+    "combined_rank": 246,
+    "name": "Sint Maarten",
+    "type": "Country/Economy",
+    "gdp_usd": 1735210228,
+    "gdp_usd_trillions": 0.001735,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 196
+  },
+  {
+    "combined_rank": 247,
+    "name": "Comoros",
+    "type": "Country/Economy",
+    "gdp_usd": 1546164420,
+    "gdp_usd_trillions": 0.001546,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 197
+  },
+  {
+    "combined_rank": 248,
+    "name": "British Virgin Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 1505856107,
+    "gdp_usd_trillions": 0.001506,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 198
+  },
+  {
+    "combined_rank": 249,
+    "name": "Grenada",
+    "type": "Country/Economy",
+    "gdp_usd": 1391435993,
+    "gdp_usd_trillions": 0.001391,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 199
+  },
+  {
+    "combined_rank": 250,
+    "name": "Vanuatu",
+    "type": "Country/Economy",
+    "gdp_usd": 1161251868,
+    "gdp_usd_trillions": 0.001161,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 200
+  },
+  {
+    "combined_rank": 251,
+    "name": "St. Vincent & Grenadines",
+    "type": "Country/Economy",
+    "gdp_usd": 1157207407,
+    "gdp_usd_trillions": 0.001157,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 201
+  },
+  {
+    "combined_rank": 252,
+    "name": "Northern Mariana Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 1096000000,
+    "gdp_usd_trillions": 0.001096,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 202
+  },
+  {
+    "combined_rank": 253,
+    "name": "Samoa",
+    "type": "Country/Economy",
+    "gdp_usd": 1068025244,
+    "gdp_usd_trillions": 0.001068,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 203
+  },
+  {
+    "combined_rank": 254,
+    "name": "Saint Kitts & Nevis",
+    "type": "Country/Economy",
+    "gdp_usd": 1066681481,
+    "gdp_usd_trillions": 0.001067,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 204
+  },
+  {
+    "combined_rank": 255,
+    "name": "American Samoa",
+    "type": "Country/Economy",
+    "gdp_usd": 871000000,
+    "gdp_usd_trillions": 0.000871,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 205
+  },
+  {
+    "combined_rank": 256,
+    "name": "Sao Tome & Principe",
+    "type": "Country/Economy",
+    "gdp_usd": 764274043,
+    "gdp_usd_trillions": 0.000764,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 206
+  },
+  {
+    "combined_rank": 257,
+    "name": "Dominica",
+    "type": "Country/Economy",
+    "gdp_usd": 688881481,
+    "gdp_usd_trillions": 0.000689,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 207
+  },
+  {
+    "combined_rank": 258,
+    "name": "Saint Martin",
+    "type": "Country/Economy",
+    "gdp_usd": 649206156,
+    "gdp_usd_trillions": 0.000649,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 208
+  },
+  {
+    "combined_rank": 259,
+    "name": "Tonga",
+    "type": "Country/Economy",
+    "gdp_usd": 558000000,
+    "gdp_usd_trillions": 0.000558,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 209
+  },
+  {
+    "combined_rank": 260,
+    "name": "Micronesia",
+    "type": "Country/Economy",
+    "gdp_usd": 471425099,
+    "gdp_usd_trillions": 0.000471,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 210
+  },
+  {
+    "combined_rank": 261,
+    "name": "Anguilla",
+    "type": "Country/Economy",
+    "gdp_usd": 415735284,
+    "gdp_usd_trillions": 0.000416,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 211
+  },
+  {
+    "combined_rank": 262,
+    "name": "Cook Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 366211548,
+    "gdp_usd_trillions": 0.000366,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 212
+  },
+  {
+    "combined_rank": 263,
+    "name": "Palau",
+    "type": "Country/Economy",
+    "gdp_usd": 322000000,
+    "gdp_usd_trillions": 0.000322,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 213
+  },
+  {
+    "combined_rank": 264,
+    "name": "Kiribati",
+    "type": "Country/Economy",
+    "gdp_usd": 307862547,
+    "gdp_usd_trillions": 0.000308,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 214
+  },
+  {
+    "combined_rank": 265,
+    "name": "Marshall Islands",
+    "type": "Country/Economy",
+    "gdp_usd": 280357844,
+    "gdp_usd_trillions": 0.00028,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 215
+  },
+  {
+    "combined_rank": 266,
+    "name": "Nauru",
+    "type": "Country/Economy",
+    "gdp_usd": 160350640,
+    "gdp_usd_trillions": 0.00016,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 216
+  },
+  {
+    "combined_rank": 267,
+    "name": "Montserrat",
+    "type": "Country/Economy",
+    "gdp_usd": 80429630,
+    "gdp_usd_trillions": 8e-05,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 217
+  },
+  {
+    "combined_rank": 268,
+    "name": "Tuvalu",
+    "type": "Country/Economy",
+    "gdp_usd": 56000000,
+    "gdp_usd_trillions": 5.6e-05,
+    "source_year": 2024,
+    "source": "Worldometer compilation of 2024 GDP estimates",
+    "source_rank_within_source": 218
+  }
+]
