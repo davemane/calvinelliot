@@ -2,7 +2,7 @@
 layout: post
 title:  "GDPs Compared"
 date:   '2026-04-16'
-categories: Economics
+categories: 
 ---
 
 I put together a full ranking of global economies, including all 50 U.S. states.
