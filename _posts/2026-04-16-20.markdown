@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "GDPs Compared"
+date:   '2026-04-16'
+categories: Economics
+---
+
+I put together a full ranking of global economies, including all 50 U.S. states.
+
+Some highlights:
+
+- California would rank as a top 5 economy globally  
+- Texas is comparable to Italy  
+- Even mid-sized U.S. states rival entire countries  
+
+👉 **View the full interactive ranking here:**
+
+[Open the full GDP ranking](../gdp-ranking.html)
+
+---
+
+## Why include U.S. states?
+
+U.S. states are included to give better context on economic scale and allow for more intuitive comparisons.
+
+---
+
+## Methodology
+
+- Country data: IMF / global datasets  
+- State data: BEA  
+- All figures are nominal GDP (USD)
