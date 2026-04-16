@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GDP Rankings: Countries and U.S. States</title>
+  <meta
+    name="description"
+    content="A combined GDP ranking of global countries/economies and all 50 U.S. states."
+  />
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --panel-2: #1f2937;
+      --text: #f8fafc;
+      --muted: #cbd5e1;
+      --border: #334155;
+      --accent: #38bdf8;
+      --accent-2: #0ea5e9;
+      --row-hover: #172033;
+      --success: #22c55e;
+      --warning: #f59e0b;
+      --shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(180deg, #020617 0%, #0f172a 100%);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 32px 20px 48px;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, rgba(56, 189, 248, 0.14), rgba(14, 165, 233, 0.05));
+      border: 1px solid rgba(56, 189, 248, 0.22);
+      border-radius: 18px;
+      padding: 28px;
+      box-shadow: var(--shadow);
+      margin-bottom: 24px;
+    }
+
+    .hero h1 {
+      margin: 0 0 10px;
+      font-size: clamp(2rem, 4vw, 3rem);
+      line-height: 1.1;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 900px;
+      font-size: 1rem;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 14px;
+      margin: 24px 0;
+    }
+
+    .stat-card {
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .stat-card .label {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .stat-card .value {
+      font-size: 1.4rem;
+      font-weight: 700;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr 1fr 1fr auto;
+      gap: 12px;
+      margin-bottom: 18px;
+      align-items: end;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    label {
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+
+    input,
+    select,
+    button {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      font-size: 0.96rem;
+    }
+
+    input:focus,
+    select:focus,
+    button:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+    }
+
+    button {
+      cursor: pointer;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      color: #082f49;
+      font-weight: 700;
+      border: none;
+      transition: transform 0.15s ease, opacity 0.15s ease;
+    }
+
+    button:hover {
+      transform: translateY(-1px);
+      opacity: 0.96;
+    }
+
+    .table-wrap {
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .table-scroll {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 920px;
+    }
+
+    thead {
+      background: #0b1220;
+    }
+
+    th,
+    td {
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      color: #e2e8f0;
+      font-size: 0.95rem;
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+      position: relative;
+    }
+
+    th.sortable:hover {
+      background: rgba(56, 189, 248, 0.05);
+    }
+
+    tbody tr:hover {
+      background: var(--row-hover);
+    }
+
+    tbody td {
+      color: #f8fafc;
+      font-size: 0.95rem;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 5px 10px;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      border: 1px solid transparent;
+    }
+
+    .tag.country {
+      background: rgba(34, 197, 94, 0.12);
+      color: #86efac;
+      border-color: rgba(34, 197, 94, 0.2);
+    }
+
+    .tag.state {
+      background: rgba(245, 158, 11, 0.12);
+      color: #fcd34d;
+      border-color: rgba(245, 158, 11, 0.2);
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .table-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 16px;
+      background: rgba(2, 6, 23, 0.7);
+      border-top: 1px solid rgba(148, 163, 184, 0.15);
+      flex-wrap: wrap;
+    }
+
+    .pagination {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .pagination button {
+      width: auto;
+      padding: 10px 14px;
+      font-size: 0.92rem;
+    }
+
+    .pagination button.secondary {
+      background: var(--panel-2);
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+
+    .pagination button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .methodology {
+      margin-top: 24px;
+      background: rgba(15, 23, 42, 0.8);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .methodology h2 {
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+
+    .methodology p {
+      color: var(--muted);
+      margin: 0 0 12px;
+    }
+
+    .loading,
+    .error,
+    .empty {
+      padding: 24px 16px;
+      text-align: center;
+      color: var(--muted);
+    }
+
+    .error {
+      color: #fecaca;
+    }
+
+    .sort-indicator {
+      font-size: 0.85rem;
+      color: var(--accent);
+      margin-left: 6px;
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    @media (max-width: 980px) {
+      .controls {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .controls .full-width {
+        grid-column: 1 / -1;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        padding: 20px 14px 32px;
+      }
+
+      .hero {
+        padding: 20px;
+      }
+
+      .controls {
+        grid-template-columns: 1fr;
+      }
+
+      .table-footer {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .pagination {
+        justify-content: space-between;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <section class="hero">
+      <h1>GDP Rankings: Countries and U.S. States</h1>
+      <p>
+        This page combines global country/economy GDP figures with all 50 U.S. states,
+        ranked together by size. Use the search, filters, and sorting tools below to
+        explore the dataset.
+      </p>
+    </section>
+
+    <section class="stats" id="stats">
+      <div class="stat-card">
+        <div class="label">Total entries</div>
+        <div class="value" id="stat-total">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">Countries / economies</div>
+        <div class="value" id="stat-countries">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">U.S. states</div>
+        <div class="value" id="stat-states">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="label">Largest economy</div>
+        <div class="value" id="stat-largest">—</div>
+      </div>
+    </section>
+
+    <section class="controls" aria-label="Table controls">
+      <div class="control-group full-width">
+        <label for="searchInput">Search</label>
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search by country, state, or source..."
+        />
+      </div>
+
+      <div class="control-group">
+        <label for="typeFilter">Type</label>
+        <select id="typeFilter">
+          <option value="all">All</option>
+          <option value="Country">Countries / Economies</option>
+          <option value="U.S. State">U.S. States</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="yearFilter">Year</label>
+        <select id="yearFilter">
+          <option value="all">All years</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="rowsPerPage">Rows per page</label>
+        <select id="rowsPerPage">
+          <option value="25">25</option>
+          <option value="50" selected>50</option>
+          <option value="100">100</option>
+          <option value="500">Show all</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label>&nbsp;</label>
+        <button id="resetButton" type="button">Reset</button>
+      </div>
+    </section>
+
+    <section class="table-wrap">
+      <div class="table-scroll">
+        <table id="gdpTable">
+          <thead>
+            <tr>
+              <th class="sortable" data-key="combined_rank">Rank</th>
+              <th class="sortable" data-key="name">Economy</th>
+              <th class="sortable" data-key="type">Type</th>
+              <th class="sortable" data-key="gdp_usd_trillions">GDP (USD Trillions)</th>
+              <th class="sortable" data-key="gdp_usd">GDP (USD)</th>
+              <th class="sortable" data-key="source_year">Year</th>
+              <th class="sortable" data-key="source">Source</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody">
+            <tr>
+              <td colspan="7" class="loading">Loading GDP data...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="table-footer">
+        <div class="muted" id="resultsInfo">Loading...</div>
+        <div class="pagination">
+          <button id="prevPage" class="secondary" type="button">Previous</button>
+          <span class="muted" id="pageInfo">Page 1</span>
+          <button id="nextPage" class="secondary" type="button">Next</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="methodology">
+      <h2>Methodology</h2>
+      <p>
+        This page combines GDP data for global countries/economies and U.S. states into
+        one comparison table. The values are intended for scale comparison and web
+        presentation.
+      </p>
+      <p>
+        Country/economy figures and U.S. state figures may come from different official
+        release streams and schedules, so this should be treated as a combined comparison
+        dataset rather than a perfectly uniform official ranking.
+      </p>
+      <p>
+        To update the page later, replace the JSON file with a newer version while keeping
+        the same field names.
+      </p>
+    </section>
+  </main>
+
+  <script>
+    const DATA_URL = "./gdp_countries_and_us_states_2024_combined.json";
+
+    let rawData = [];
+    let filteredData = [];
+    let currentPage = 1;
+    let sortKey = "combined_rank";
+    let sortDirection = "asc";
+
+    const searchInput = document.getElementById("searchInput");
+    const typeFilter = document.getElementById("typeFilter");
+    const yearFilter = document.getElementById("yearFilter");
+    const rowsPerPageSelect = document.getElementById("rowsPerPage");
+    const resetButton = document.getElementById("resetButton");
+    const tableBody = document.getElementById("tableBody");
+    const resultsInfo = document.getElementById("resultsInfo");
+    const pageInfo = document.getElementById("pageInfo");
+    const prevPageButton = document.getElementById("prevPage");
+    const nextPageButton = document.getElementById("nextPage");
+
+    const statTotal = document.getElementById("stat-total");
+    const statCountries = document.getElementById("stat-countries");
+    const statStates = document.getElementById("stat-states");
+    const statLargest = document.getElementById("stat-largest");
+
+    function formatNumber(value) {
+      return new Intl.NumberFormat("en-US").format(value);
+    }
+
+    function formatCurrency(value) {
+      return new Intl.NumberFormat("en-US", {
+        style: "currency",
+        currency: "USD",
+        maximumFractionDigits: 0
+      }).format(value);
+    }
+
+    function formatTrillions(value) {
+      return Number(value).toFixed(3).replace(/\.?0+$/, "");
+    }
+
+    function getRowsPerPage() {
+      return Number(rowsPerPageSelect.value);
+    }
+
+    function updateStats(data) {
+      const countries = data.filter(item => item.type === "Country").length;
+      const states = data.filter(item => item.type === "U.S. State").length;
+      const largest = [...data].sort((a, b) => b.gdp_usd - a.gdp_usd)[0];
+
+      statTotal.textContent = formatNumber(data.length);
+      statCountries.textContent = formatNumber(countries);
+      statStates.textContent = formatNumber(states);
+      statLargest.textContent = largest ? largest.name : "—";
+    }
+
+    function populateYearFilter(data) {
+      const years = [...new Set(data.map(item => item.source_year))].sort((a, b) => b - a);
+      yearFilter.innerHTML = '<option value="all">All years</option>';
+
+      years.forEach(year => {
+        const option = document.createElement("option");
+        option.value = String(year);
+        option.textContent = year;
+        yearFilter.appendChild(option);
+      });
+    }
+
+    function applyFilters() {
+      const searchValue = searchInput.value.trim().toLowerCase();
+      const selectedType = typeFilter.value;
+      const selectedYear = yearFilter.value;
+
+      filteredData = rawData.filter(item => {
+        const matchesSearch =
+          item.name.toLowerCase().includes(searchValue) ||
+          item.type.toLowerCase().includes(searchValue) ||
+          String(item.source_year).includes(searchValue) ||
+          item.source.toLowerCase().includes(searchValue);
+
+        const matchesType = selectedType === "all" || item.type === selectedType;
+        const matchesYear = selectedYear === "all" || String(item.source_year) === selectedYear;
+
+        return matchesSearch && matchesType && matchesYear;
+      });
+
+      sortData();
+      currentPage = 1;
+      renderTable();
+    }
+
+    function sortData() {
+      filteredData.sort((a, b) => {
+        let aVal = a[sortKey];
+        let bVal = b[sortKey];
+
+        if (typeof aVal === "string") aVal = aVal.toLowerCase();
+        if (typeof bVal === "string") bVal = bVal.toLowerCase();
+
+        if (aVal < bVal) return sortDirection === "asc" ? -1 : 1;
+        if (aVal > bVal) return sortDirection === "asc" ? 1 : -1;
+        return 0;
+      });
+    }
+
+    function renderTable() {
+      if (!filteredData.length) {
+        tableBody.innerHTML = `
+          <tr>
+            <td colspan="7" class="empty">No matching results found.</td>
+          </tr>
+        `;
+        resultsInfo.textContent = "0 results";
+        pageInfo.textContent = "Page 1 of 1";
+        prevPageButton.disabled = true;
+        nextPageButton.disabled = true;
+        return;
+      }
+
+      const rowsPerPage = getRowsPerPage();
+      const totalPages = rowsPerPage >= filteredData.length
+        ? 1
+        : Math.ceil(filteredData.length / rowsPerPage);
+
+      if (currentPage > totalPages) {
+        currentPage = totalPages;
+      }
+
+      const startIndex = rowsPerPage >= filteredData.length
+        ? 0
+        : (currentPage - 1) * rowsPerPage;
+
+      const endIndex = rowsPerPage >= filteredData.length
+        ? filteredData.length
+        : startIndex + rowsPerPage;
+
+      const visibleRows = filteredData.slice(startIndex, endIndex);
+
+      tableBody.innerHTML = visibleRows.map(item => `
+        <tr>
+          <td>${item.combined_rank}</td>
+          <td><strong>${escapeHtml(item.name)}</strong></td>
+          <td>
+            <span class="tag ${item.type === "Country" ? "country" : "state"}">
+              ${escapeHtml(item.type)}
+            </span>
+          </td>
+          <td>${formatTrillions(item.gdp_usd_trillions)}</td>
+          <td>${formatCurrency(item.gdp_usd)}</td>
+          <td>${escapeHtml(String(item.source_year))}</td>
+          <td>${escapeHtml(item.source)}</td>
+        </tr>
+      `).join("");
+
+      resultsInfo.textContent =
+        `Showing ${formatNumber(startIndex + 1)}–${formatNumber(endIndex)} of ${formatNumber(filteredData.length)} results`;
+
+      pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+      prevPageButton.disabled = currentPage === 1;
+      nextPageButton.disabled = currentPage === totalPages;
+      updateSortIndicators();
+    }
+
+    function updateSortIndicators() {
+      document.querySelectorAll("th.sortable").forEach(th => {
+        const key = th.dataset.key;
+        th.innerHTML = th.textContent.replace(/[↑↓]/g, "").trim();
+
+        if (key === sortKey) {
+          const indicator = sortDirection === "asc" ? "↑" : "↓";
+          th.innerHTML = `${th.textContent} <span class="sort-indicator">${indicator}</span>`;
+        }
+      });
+    }
+
+    function escapeHtml(str) {
+      return String(str)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function resetControls() {
+      searchInput.value = "";
+      typeFilter.value = "all";
+      yearFilter.value = "all";
+      rowsPerPageSelect.value = "50";
+      sortKey = "combined_rank";
+      sortDirection = "asc";
+      currentPage = 1;
+      applyFilters();
+    }
+
+    async function loadData() {
+      try {
+        const response = await fetch(DATA_URL);
+
+        if (!response.ok) {
+          throw new Error(`HTTP error: ${response.status}`);
+        }
+
+        rawData = await response.json();
+
+        if (!Array.isArray(rawData)) {
+          throw new Error("JSON file is not an array.");
+        }
+
+        populateYearFilter(rawData);
+        updateStats(rawData);
+        filteredData = [...rawData];
+        sortData();
+        renderTable();
+      } catch (error) {
+        console.error(error);
+        tableBody.innerHTML = `
+          <tr>
+            <td colspan="7" class="error">
+              Could not load the GDP data file. Make sure
+              <strong>${DATA_URL}</strong> is in the same folder as this HTML page.
+            </td>
+          </tr>
+        `;
+        resultsInfo.textContent = "Error loading data";
+        pageInfo.textContent = "Page 1 of 1";
+        prevPageButton.disabled = true;
+        nextPageButton.disabled = true;
+      }
+    }
+
+    searchInput.addEventListener("input", applyFilters);
+    typeFilter.addEventListener("change", applyFilters);
+    yearFilter.addEventListener("change", applyFilters);
+
+    rowsPerPageSelect.addEventListener("change", () => {
+      currentPage = 1;
+      renderTable();
+    });
+
+    resetButton.addEventListener("click", resetControls);
+
+    prevPageButton.addEventListener("click", () => {
+      if (currentPage > 1) {
+        currentPage--;
+        renderTable();
+      }
+    });
+
+    nextPageButton.addEventListener("click", () => {
+      const rowsPerPage = getRowsPerPage();
+      const totalPages = rowsPerPage >= filteredData.length
+        ? 1
+        : Math.ceil(filteredData.length / rowsPerPage);
+
+      if (currentPage < totalPages) {
+        currentPage++;
+        renderTable();
+      }
+    });
+
+    document.querySelectorAll("th.sortable").forEach(th => {
+      th.addEventListener("click", () => {
+        const clickedKey = th.dataset.key;
+
+        if (sortKey === clickedKey) {
+          sortDirection = sortDirection === "asc" ? "desc" : "asc";
+        } else {
+          sortKey = clickedKey;
+          sortDirection = clickedKey === "combined_rank" ? "asc" : "asc";
+        }
+
+        sortData();
+        currentPage = 1;
+        renderTable();
+      });
+    });
+
+    loadData();
+  </script>
+</body>
+</html>
