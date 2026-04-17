@@ -15,7 +15,7 @@ Some highlights:
 
 👉 **View the full interactive ranking here:**
 
-[Open the full GDP ranking](/gdp-ranking.html)
+[Open the full GDP ranking](http://davemane.com/gdp-ranking.html)
 
 ---
 
